@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Burak\Desktop
+Emux4_1
+Z0 w1587318870
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\Burak\Desktop\1bit4-1mux
+Z4 8C:/Users/Burak/Desktop/1bit4-1mux/4-1mux.vhd
+Z5 FC:/Users/Burak/Desktop/1bit4-1mux/4-1mux.vhd
+l0
+L4
+VQk8dNcIGc<Xab?I`I3ZzQ3
+!s100 R8b:<GU]I>P[A`nV8gH<b1
+Z6 OV;C;10.1b;51
+32
+!i10b 1
+Z7 !s108 1587318873.138000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Burak/Desktop/1bit4-1mux/4-1mux.vhd|
+Z9 !s107 C:/Users/Burak/Desktop/1bit4-1mux/4-1mux.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+Abehv
+R1
+R2
+DEx4 work 6 mux4_1 0 22 Qk8dNcIGc<Xab?I`I3ZzQ3
+l11
+L10
+VcDSn94NB;EL]b?jl5NNYL2
+!s100 <@N74VB_N]Ud8Yio@[gcZ3
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11
